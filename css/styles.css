@@ -1,0 +1,27 @@
+.navbar {
+  background-color: #f8f7f7;
+  border: none;
+  color: #7e7e7e;
+}
+
+.logo {
+  width: 48%;
+  margin-top: 1%;
+  margin-left: 47%;
+}
+
+.rightNavigation {
+ margin-right: 10%;
+}
+
+.glyphicon-usd {
+  font-size: 1.5em;
+}
+
+.glyphicon-question-sign {
+  font-size: 1.5em;
+}
+
+.glyphicon-menu-hamburger {
+  font-size: 3em;
+}
